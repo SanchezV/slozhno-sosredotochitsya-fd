@@ -1,1 +1,1 @@
-[slozhno-sosredotochitsya-fd](https://github.com/SanchezV/slozhno-sosredotochitsya-fd)
+https://github.com/SanchezV/slozhno-sosredotochitsya-fd
